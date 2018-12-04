@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+ul {
+    padding: 0;
+}
+.alinhamento {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #00773d;
+    border-top: 1px solid #00773d;
+}
+.conteiner {
+    width: 1230px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    height: 35px;
+    align-items: center;
+    font-size: 13px;
+}
+
+.alinhamento2 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    background: #00984e;
+    
+}
+
+.bodybarnav {
+    
+    width: 1230px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 78px;
+}
+.logoprincipal {
+    display: flex;
+    width: 15%;
+}
+.pesquisabar {
+    background-color: white;
+    width: 75%;
+    height: 50px;
+}
+.barradepesquisa {
+    background-color: aquamarine;
+    
+}
+.alinhamentopesquisa {
+    display: flex;
+    justify-content: space-between;
+}
+.imagemsearch {
+    margin:3px;
+}
+.login {
+    display: flex;
+    width: 10%;
+}
